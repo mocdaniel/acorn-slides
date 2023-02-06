@@ -13,7 +13,7 @@ services:
   postgres:
     [...]
     volumes:
-    - db-data:/data
+    - db-data:/var/lib/postgresql/data
   redis:
     [...]
     volumes:
