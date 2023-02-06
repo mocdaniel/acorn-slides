@@ -10,6 +10,8 @@ layout: default
 <br />
 
 - All resources are available on GitHub: [mocdaniel/acorn-workshop](https://github.com/mocdaniel/acorn-workshop)
+
+- A version of this slide deck with more information for asynchronous participation is available at [acorn.dbodky.me](https://acorn.dbodky.me)
  
 <br />
 

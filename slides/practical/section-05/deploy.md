@@ -19,7 +19,7 @@ acorn build -t <registry>/<user>/<image>:<tag>
 
 acorn push <registry>/<user>/<image>:<tag>
 
-acorn run --help <registry>/<user>/<image>:<tag>
+acorn run <registry>/<user>/<image>:<tag> --help
 
 acorn run --target-namespace demo --name demo \
 <registry/user/image/tag> [OPTIONS]

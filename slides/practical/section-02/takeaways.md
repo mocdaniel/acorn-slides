@@ -5,7 +5,7 @@ transition: fade-out
 
 # Takeaways
 
-Many directives are portable from Docker compose
+Implement your deployment order!
 
 <br />
 
