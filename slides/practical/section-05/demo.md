@@ -15,7 +15,7 @@ Let's deploy a workshop guestbook!
 
 ```bash
 acorn install \
---ingress-class=nginx \
+--ingress-class-name=nginx \
 --lets-encrypt=enabled \
 --lets-encrypt-email=dbodky@gmail.com \
 --lets-encrypt-tos-agree=true \
