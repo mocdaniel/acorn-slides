@@ -25,7 +25,7 @@ acorn install \
 
 <v-click>
 
-<div class="bg-red absolute left-2 top-43 h-4 w-39 opacity-50 rounded-md"></div>
+<div class="bg-red absolute left-2 top-43 h-4 w-48 opacity-50 rounded-md"></div>
 
 </v-click>
 
